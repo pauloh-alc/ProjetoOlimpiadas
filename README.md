@@ -1,5 +1,12 @@
-## Folder Structure
+# Sistema de gereciamento de comitê olímpico:
 
-The workspace contains two folders by default, where:
+ - Projeto em grupo desenvolvido durante a realização da disciplina de POO.
 
-- `src`: the folder to maintain sources
+### Assuntos abordados:
+- Composição;
+- Herança;
+- Polimorfismo;
+- Encapsulamento;
+- Enum;
+- Interface;
+- Tratamento de erros.
